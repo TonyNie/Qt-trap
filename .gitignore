@@ -1,0 +1,5 @@
+*.o
+moc*.cpp
+Makefile
+*.swp
+trap
